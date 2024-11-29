@@ -49,6 +49,7 @@ The goal is simple yet challenging: slide numbered tiles on a grid, combining id
 - HTML5
 - CSS3
 - Vanilla JavaScript
+- AI assistance from Claude and Codeium Cascade
 
 ## 🚀 Installation
 1. Clone the repository
